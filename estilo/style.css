@@ -1,0 +1,29 @@
+.dados-pessoais {
+    margin-top: 10px;
+    padding-left: 300px;
+}
+
+img {
+    position: absolute;
+    left: 60%;
+    top: 10px;
+    width: 130px;
+    height: 130px;
+
+}
+/* Parágrafos no geral */
+p {
+    margin: 3px 0;
+}
+
+
+/* Titulos secundários*/
+h4 {
+    margin: 10px 0 10px 0;
+}
+
+/* Divs com os temas centrais */
+div {
+    margin-top: 20px;
+    padding-left: 150px;
+}
